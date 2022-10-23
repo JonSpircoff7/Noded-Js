@@ -1,0 +1,25 @@
+{
+  "name": "noded-js",
+  "version": "1.0.0",
+  "description": "This is a README generator courtesy of NODE.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonSpircoff7/Noded-Js.git"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Jonathan D Spircoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonSpircoff7/Noded-Js/issues"
+  },
+  "homepage": "https://github.com/JonSpircoff7/Noded-Js#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
