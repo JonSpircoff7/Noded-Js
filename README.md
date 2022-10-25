@@ -1,28 +1,30 @@
-# NodeJS [![License](https://img.shields.io/badge/License-BSD3ClauseLicense-blue.svg)](https://opensource.org/licenses/BSD3ClauseLicense)
-This is a README generator created with nodejs. 
+# README Generator [![License](https://img.shields.io/badge/License-AcademicFreeLicensev3.0-blue.svg)](https://opensource.org/licenses/AcademicFreeLicensev3.0)
+This is a README generator created with nodejs. This allows users the ability to dynamically create files with the touch of a button.
 ## Table Of Contents 
-- [undefined](#undefined)
-- [undefined](#undefined)
-- [undefined](#undefined)
-- [undefined](#undefined)
-- [undefined](#undefined)
-- [undefined](#undefined)
+- [Installation](#install)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Test](#test)
+- [Questions](#questions)
 
 
 ## Install
- To continue with using this application you will need to download a few applications including nodejs
+ Yes, please download nodejs to run this application.
 ## Usage
-use
+Use this by typing in node index.js to create your custom readme
 ## License
-BSD3ClauseLicense
+AcademicFreeLicensev3.0
 ## Contributing
 
-s
+JonSpircoff7
 
 ## Test
 
-Test by running node index.js in the console.
+run test
 ## Questions
+For directions to my github, please follow this link.
+- https://github.com/jonspircoff7
 
-https://github.com/jonspircoff7
-Spircoff_j@yahoo.com
+Please feel free to reach me at
+- spircoff_j@Yahoo.com

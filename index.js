@@ -136,12 +136,12 @@ inquirer
     let markdown = `# ${answers.title} [![License](https://img.shields.io/badge/License-${answers.license}-blue.svg)](https://opensource.org/licenses/${answers.license})
 ${answers.description}
 ## Table Of Contents 
-- [${answers.toc[0]}](#${answers.toc[0]})
-- [${answers.toc[1]}](#${answers.toc[0]})
-- [${answers.toc[2]}](#${answers.toc[0]})
-- [${answers.toc[3]}](#${answers.toc[0]})
-- [${answers.toc[4]}](#${answers.toc[0]})
-- [${answers.toc[5]}](#${answers.toc[0]})
+- [${answers.toc[0]}](#install)
+- [${answers.toc[1]}](#usage)
+- [${answers.toc[2]}](#license)
+- [${answers.toc[3]}](#contributing)
+- [${answers.toc[4]}](#test)
+- [${answers.toc[5]}](#questions)
 
 
 ## Install
@@ -158,9 +158,11 @@ ${answers.contributing}
 
 ${answers.test}
 ## Questions
+For directions to my github, please follow this link.
+- https://github.com/${answers.github}
 
-https://github.com/${answers.github}
-${answers.email}`;
+Please feel free to reach me at
+- ${answers.email}`;
 
     fs.writeFile("README.md", markdown, (err) => {
       err ? console.log(err) : console.log("File written successfully\n");
