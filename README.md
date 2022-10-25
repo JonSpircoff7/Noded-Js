@@ -13,10 +13,8 @@ This is a README generator created with nodejs. This allows users the ability to
 
 ## Screenshot
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
 https://github.com/JonSpircoff7/Noded-Js.git
+<img src="JonSpircoff7-Noded-Js-Node-JS-challenge-for-UCF.png" />
 
 ## Install
 
