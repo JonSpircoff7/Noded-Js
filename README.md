@@ -14,7 +14,7 @@ This is a README generator created with nodejs. This allows users the ability to
 ## Screenshot
 
 <video width="320" height="240" controls>
-  <source src="index.js - Noded-Js - Visual Studio Code 2022-10-25 08-25-27.mp4" type="video/mp4">
+  <source src="video.mp4" type="video/mp4">
 </video>
 
 ## Install
